@@ -13,8 +13,6 @@
 
 **Empowering Pakistani students with practical, income-generating digital skills through AI-powered micro-learning.**
 
-[Explore Courses](#features) • [View Demo](#screenshots) • [Report Bug](https://github.com/m-zeyyan/SkillBridgeAI/issues)
-
 </div>
 
 ---
@@ -106,8 +104,8 @@ src/
 ## 👤 Author
 
 **Muhammad Zeyyan Butt**
-- GitHub: [@m-zeyyan](https://github.com/Zeyyan15)
-- LinkedIn: [Zeyyan Butt](https://linkedin.com/in/muhammad-zeyyan)
+- GitHub: [Zeyyan15](https://github.com/Zeyyan15)
+- LinkedIn: [Muhammad Zeyyan](https://linkedin.com/in/muhammad-zeyyan)
 
 ## ⚖️ License
 
